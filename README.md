@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web & App Developer<br>- Most of my Projects are Private
+Web & App Developer<br>- Most of my project repositories are private.
 
 
 # 💻 Tech Stack:
